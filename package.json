@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-traveltime",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TravelTime MCP — multi-modal isochrones & reachability incl. PUBLIC TRANSPORT",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-3d50d3ca95969cb99418b90d709f3d50d8abbfd869986930123895e55857f7ab",
+    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
   }
 }
