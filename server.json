@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/traveltime",
   "title": "Traveltime",
   "description": "TravelTime MCP — multi-modal isochrones & reachability incl. PUBLIC TRANSPORT (traveltime.com).…",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "websiteUrl": "https://pipeworx.io/packs/traveltime",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-traveltime",

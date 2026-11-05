@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-traveltime",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "TravelTime MCP — multi-modal isochrones & reachability incl. PUBLIC TRANSPORT (traveltime.com). The public-transport modality is the thing our openrouteservice pack can't do.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "traveltime",
     "gatewaySlug": "traveltime",
-    "sourceHash": "v1-2cf9d0ce75f527cb130d86eda53140e4b7183fc90955bfb5fc773a6bf4d1bb57",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-155719d4365232a1a8f2ad5965195d9b420ca50591af5dead72b79d5ad6badd2",
+    "sourceCommit": "868e119d526d5409447b7ee2149afba7eb9d2593"
   }
 }
